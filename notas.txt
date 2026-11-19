@@ -1,0 +1,4 @@
+Meu arquivo de notas.
+
+Estou aprendendo Git e GitHub.
+Este é meu segundo arquivo do desafio.
